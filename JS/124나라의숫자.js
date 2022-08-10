@@ -43,3 +43,11 @@ function solution(n) {
 // answer는 41이 되고 n은 0이 되어 break로 빠져 나오게 된다
 
 // answer = 41
+
+
+// 다른 사람의 풀이 
+
+// function change124(n) {
+//  return n === 0 ? '' : change124(parseInt((n - 1) / 3)) + [1, 2, 4][(n - 1) % 3];
+// }
+// 어떻게 이런 생각을..?  n-1로 배열의 자리를 구해서 앞에 몫과 합치다니.. 
