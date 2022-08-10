@@ -18,7 +18,7 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 8월 10일 |  :ok_hand:  | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">12899</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">124 나라의 숫자</a> | Lv2 | <a href="./JS/124나라의숫자.js">바로가기</a> |
 | 8월 10일 |  :ok_hand:  | <a href=https://school.programmers.co.kr/learn/courses/30/lessons/12925" target="_blank">12925</a> | <a href=https://school.programmers.co.kr/learn/courses/30/lessons/12925" target="_blank">문자열을 정수로 바꾸기
-</a> | Lv1 | <a href="./JS/문자열을 정수로 바꾸기.js">바로가기</a> |
+</a> | Lv1 | <a href="./JS/문자열을정수로바꾸기.js">바로가기</a> |
 | 8월 11일 | :running: | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank">12901</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank">2016년</a> | Lv1 | <a href="./JS/2016년.js">바로가기</a> |
 | 8월 11일 | :running: | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12902" target="_blank">12902</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12902" target="_blank">3 x n 타일링</a> | Lv1 | <a href="./JS/3xn타일링.js">바로가기</a> |
 | 8월 12일 | :running: | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903" target="_blank">12903</a> | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903" target="_blank">가운데글자 가져오기</a> | Lv1 | <a href="./JS/가운데글자가져오기.js">바로가기</a> |
