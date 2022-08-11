@@ -11,5 +11,28 @@ seoul의 원소는 길이 1 이상, 20 이하인 문자열입니다.
 
 function solution(seoul) {
     let answer = '';
+    for (i = 0; i <= 1000; i++) {
+        if (seoul[i] === 'Kim') {
+            answer = `김서방은 ${i}에 있다`
+        }
+    }
     return answer;
 }
+//리뷰: 나름 내코드도 나쁘지 않은거같은데,,떼잉,,ㅠ
+
+/* 다른 사람 코드
+
+function solution(seoul) {
+    let answer = '';
+    for (i=0; i <= 1000; i++){
+        if(seoul[i] === 'Kim'){
+            answer = `김서방은 ${i}에 있다`
+        }
+    }
+    
+    return answer;
+}
+
+-> 와우 나는 for문 밖에 생각이 안났는데 ㅠ indexOf도 있었지..
+
+*/
