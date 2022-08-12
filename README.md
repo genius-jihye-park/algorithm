@@ -22,8 +22,8 @@
 | 8월 11일 | :ok_hand: | 12919 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919" target="_blank">서울에서 김서방 찾기</a> | Lv1 | <a href="./JS/서울에서김서방찾기.js">바로가기</a> |
 | 8월 12일 | :ok_hand: | 1845 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845" target="_blank">폰켓몬</a> | Lv1 | <a href="./JS/폰켓몬.js">바로가기</a> |
 | 8월 12일 | :ok_hand: | 12903 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12903" target="_blank">가운데글자 가져오기</a> | Lv1 | <a href="./JS/가운데글자가져오기.js">바로가기</a> |
-| 8월 13일 | :running: | 12905 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">가장 큰 정사각형 찾기</a> | Lv1 | <a href="./JS/가장큰정사각형찾기.js">바로가기</a> |
-| 8월 13일 | :running: | 12906 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906" target="_blank">거스름돈</a> | Lv1 | <a href="./JS/거스름돈.js">바로가기</a> |
+| 8월 13일 | :ok_hand: | 12906 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906" target="_blank">같은 숫자는 싫어</a> | Lv1 | <a href="./JS/같은숫자는싫어.js">바로가기</a> |
+| 8월 13일 | :ok_hand: | 12928 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928" target="_blank">약수의 합</a> | Lv1 | <a href="./JS/약수의합.js">바로가기</a> |
 | 8월 14일 | :running: | 12907 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12907" target="_blank">직사각형의 넓이</a> | Lv1 | <a href="./JS/직사각형의넓이.js">바로가기</a> |
 | 8월 14일 | :running: | 12908 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12908" target="_blank">나누어 떨어지는 숫자 배열</a> | Lv1 | <a href="./JS/나누어떨어지는숫자배열.js">바로가기</a> |
 
