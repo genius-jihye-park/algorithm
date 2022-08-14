@@ -37,4 +37,9 @@ function adder(a, b){
 
 -> 가우스 공식 ..
 Math.abs에 대해서 공식문서를 더 참조해야 할 것 같다
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
+> Math.abs 는 절대값 반환하는 함수
+> 가우스 공식 : 등차수열 활용! 
+>> n는 x와 y사이의 정수의 개수, x는 작은수, y는 큰수
+>>> n(x+y)/2   === ((y-x)+1)(x+y)/2
 */
