@@ -26,8 +26,8 @@
 | 8월 13일 | :ok_hand: | 12928 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12928" target="_blank">약수의 합</a> | Lv1 | <a href="./JS/약수의합.js">바로가기</a> |
 | 8월 14일 | :ok_hand: | 12912 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12912" target="_blank">두 정수 사이의 합</a> | Lv1 | <a href="./JS/두정수사이의합.js">바로가기</a> |
 | 8월 14일 | :ok_hand: | 12908 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12908" target="_blank">나누어 떨어지는 숫자 배열</a> | Lv1 | <a href="./JS/나누어떨어지는숫자배열.js">바로가기</a> |
-| 8월 15일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 15일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 15일 | :ok_hand: | 12915 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12915" target="_blank">문자열 내 마음대로 정렬하기</a> | Lv1 | <a href="./JS/문자열내마음대로정렬하기.js">바로가기</a> |
+| 8월 15일 | :ok_hand: | 12918 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12918" target="_blank">문자열 다루기 기본</a> | Lv1 | <a href="./JS/문자열다루기기본.js">바로가기</a> |
 | 8월 16일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 16일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 17일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
