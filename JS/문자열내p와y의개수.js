@@ -34,4 +34,9 @@ function numPY(s){
 
 ->허 참.. 어이없다. 왜 이생각을 못했지?
 
+function numPY(s) {
+  return s.match(/p/ig).length == s.match(/y/ig).length;
+}
+
+-> match라는 함수를 더 자세히 알아보게 됌..
 */
