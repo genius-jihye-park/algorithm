@@ -31,7 +31,7 @@
 | 8월 16일 | :ok_hand: | 12916 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12916" target="_blank">문자열 내 p와 y의 개수</a> | Lv1 | <a href="./JS/문자열내p와y의개수.js">바로가기</a> |
 | 8월 16일 | :ok_hand: | 12921 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12921" target="_blank">소수 찾기</a> | Lv1 | <a href="./JS/소수찾기.js">바로가기</a> |
 | 8월 17일 | :ok_hand: | 12922 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12922" target="_blank">수박수박수박수박수박수?</a> | Lv1 | <a href="./JS/수박수박수박수박수박수?.js">바로가기</a> |
-| 8월 17일 | :ok_hand: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 17일 | :ok_hand: | 12937 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12937" target="_blank">짝수와홀수</a> | Lv1 | <a href="./JS/짝수와홀수.js">바로가기</a> |
 | 8월 18일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 18일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 19일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
