@@ -34,8 +34,8 @@
 | 8월 17일 | :ok_hand: | 12937 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12937" target="_blank">짝수와홀수</a> | Lv1 | <a href="./JS/짝수와홀수.js">바로가기</a> |
 | 8월 18일 | :ok_hand: | 12926 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12926" target="_blank">시저암호</a> | Lv1 | <a href="./JS/시저암호.js">바로가기</a> |
 | 8월 18일 | :ok_hand: | 12917 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12917" target="_blank">문자열 내림차순으로 배치하기</a> | Lv1 | <a href="./JS/문자열내림차순으로배치하기.js">바로가기</a> |
-| 8월 19일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 19일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 19일 | :ok_hand: | 12930 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12930" target="_blank">이상한 문자 만들기</a> | Lv1 | <a href="./JS/이상한문자만들기.js">바로가기</a> |
+| 8월 19일 | :ok_hand: | 12931 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931" target="_blank">자릿수 더하기</a> | Lv1 | <a href="./JS/자릿수더하기.js">바로가기</a> |
 | 8월 20일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 20일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 21일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
