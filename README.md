@@ -38,8 +38,8 @@
 | 8월 19일 | :ok_hand: | 12931 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12931" target="_blank">자릿수 더하기</a> | Lv1 | <a href="./JS/자릿수더하기.js">바로가기</a> |
 | 8월 20일 | :ok_hand: | 12932 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12932" target="_blank">자연수 뒤집어 배열로 만들기</a> | Lv1 | <a href="./JS/자연수뒤집어배열로만들기.js">바로가기</a> |
 | 8월 20일 | :ok_hand: | 12933 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933" target="_blank">정수 내림차순으로 배치하기</a> | Lv1 | <a href="./JS/정수내림차순으로배치하기.js">바로가기</a> |
-| 8월 21일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 21일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 21일 | :ok_hand: | 12934 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934" target="_blank">정수 제곱근 판별</a> | Lv1 | <a href="./JS/정수제곱근판별.js">바로가기</a> |
+| 8월 21일 | :ok_hand: | 12935 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935" target="_blank">제일 작은 수 제거하기</a> | Lv1 | <a href="./JS/제일작은수제거하기.js">바로가기</a> |
 | 8월 22일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 22일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 23일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
