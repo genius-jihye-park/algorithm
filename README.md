@@ -40,8 +40,8 @@
 | 8월 20일 | :ok_hand: | 12933 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12933" target="_blank">정수 내림차순으로 배치하기</a> | Lv1 | <a href="./JS/정수내림차순으로배치하기.js">바로가기</a> |
 | 8월 21일 | :ok_hand: | 12934 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12934" target="_blank">정수 제곱근 판별</a> | Lv1 | <a href="./JS/정수제곱근판별.js">바로가기</a> |
 | 8월 21일 | :ok_hand: | 12935 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935" target="_blank">제일 작은 수 제거하기</a> | Lv1 | <a href="./JS/제일작은수제거하기.js">바로가기</a> |
-| 8월 22일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 22일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 22일 | :ok_hand: | 12940 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940" target="_blank">최대공약수와 최소공배수</a> | Lv1 | <a href="./JS/최대공약수와최소공배수.js">바로가기</a> |
+| 8월 22일 | :ok_hand: | 12943 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" target="_blank">콜라츠 추측</a> | Lv1 | <a href="./JS/콜라츠추측.js">바로가기</a> |
 | 8월 23일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 23일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 24일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
