@@ -42,8 +42,8 @@
 | 8월 21일 | :ok_hand: | 12935 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12935" target="_blank">제일 작은 수 제거하기</a> | Lv1 | <a href="./JS/제일작은수제거하기.js">바로가기</a> |
 | 8월 22일 | :ok_hand: | 12940 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12940" target="_blank">최대공약수와 최소공배수</a> | Lv1 | <a href="./JS/최대공약수와최소공배수.js">바로가기</a> |
 | 8월 22일 | :ok_hand: | 12943 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" target="_blank">콜라츠 추측</a> | Lv1 | <a href="./JS/콜라츠추측.js">바로가기</a> |
-| 8월 23일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 23일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 23일 | :ok_hand: | 12944 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944" target="_blank">평균 구하기</a> | Lv1 | <a href="./JS/평균구하기.js">바로가기</a> |
+| 8월 23일 | :ok_hand: | 12947 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947" target="_blank">하샤드 수</a> | Lv1 | <a href="./JS/하샤드수.js">바로가기</a> |
 | 8월 24일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 24일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 25일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
