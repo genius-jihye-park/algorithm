@@ -14,9 +14,9 @@
 ## 목차
 
 
-|          날짜          |        완료         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |        걸린 시간         |        풀이         |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 8월 10일 |  :ok_hand:  | 12899 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">124 나라의 숫자</a> | Lv2 | <a href="./JS/124나라의숫자.js">바로가기</a> | > ㅇㅇ분 | <ul><li>[x] 혼자서</li><li>[ ] 풀이참고</li></ul> |
+|          날짜          |        풀음?         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| 8월 10일 |  :ok_hand:  | 12899 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12899" target="_blank">124 나라의 숫자</a> | Lv2 | <a href="./JS/124나라의숫자.js">바로가기</a> |
 | 8월 10일 |  :ok_hand:  | 12925 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12925" target="_blank">문자열을 정수로 바꾸기</a> | Lv1 | <a href="./JS/문자열을정수로바꾸기.js">바로가기</a> |
 | 8월 11일 | :ok_hand: | 12901 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank">2016년</a> | Lv1 | <a href="./JS/2016년.js">바로가기</a> |
 | 8월 11일 | :ok_hand: | 12919 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12919" target="_blank">서울에서 김서방 찾기</a> | Lv1 | <a href="./JS/서울에서김서방찾기.js">바로가기</a> |
