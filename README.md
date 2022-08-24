@@ -44,10 +44,10 @@
 | 8월 22일 | :ok_hand: | 12943 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12943" target="_blank">콜라츠 추측</a> | Lv1 | <a href="./JS/콜라츠추측.js">바로가기</a> |
 | 8월 23일 | :ok_hand: | 12944 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12944" target="_blank">평균 구하기</a> | Lv1 | <a href="./JS/평균구하기.js">바로가기</a> |
 | 8월 23일 | :ok_hand: | 12947 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12947" target="_blank">하샤드 수</a> | Lv1 | <a href="./JS/하샤드수.js">바로가기</a> |
-| 8월 24일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 24일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 25일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 25일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 24일 | :ok_hand: | 12948 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12948" target="_blank">핸드폰 번호 가리기</a> | Lv1 | <a href="./JS/핸드폰번호가리기.js">바로가기</a> |
+| 8월 24일 | :ok_hand: | 12950 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950" target="_blank">행렬의 덧셈</a> | Lv1 | <a href="./JS/행렬의덧셈.js">바로가기</a> |
+| 8월 25일 | :ok_hand: | 12954 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954" target="_blank">x만큼 간격이 있는 n개의 숫자</a> | Lv1 | <a href="./JS/x만큼간격이있는n개의숫자.js">바로가기</a> |
+| 8월 25일 | :ok_hand: | 12969 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969" target="_blank">직사각형 별찍기</a> | Lv1 | <a href="./JS/직사각형별찍기.js">바로가기</a> |
 | 8월 26일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 26일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 27일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
