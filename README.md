@@ -48,8 +48,8 @@
 | 8월 24일 | :ok_hand: | 12950 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12950" target="_blank">행렬의 덧셈</a> | Lv1 | <a href="./JS/행렬의덧셈.js">바로가기</a> |
 | 8월 25일 | :ok_hand: | 12954 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12954" target="_blank">x만큼 간격이 있는 n개의 숫자</a> | Lv1 | <a href="./JS/x만큼간격이있는n개의숫자.js">바로가기</a> |
 | 8월 25일 | :ok_hand: | 12969 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969" target="_blank">직사각형 별찍기</a> | Lv1 | <a href="./JS/직사각형별찍기.js">바로가기</a> |
-| 8월 26일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 26일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 26일 | :ok_hand: | 68644 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644" target="_blank">두 개 뽑아서 더하기</a> | Lv1 | <a href="./JS/두개뽑아서더하기.js">바로가기</a> |
+| 8월 26일 | :ok_hand: | 82612 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank">부족한 금액 계산하기</a> | Lv1 | <a href="./JS/부족한금액계산하기.js">바로가기</a> |
 | 8월 27일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 27일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 28일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
