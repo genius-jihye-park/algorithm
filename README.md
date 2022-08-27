@@ -50,8 +50,8 @@
 | 8월 25일 | :ok_hand: | 12969 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12969" target="_blank">직사각형 별찍기</a> | Lv1 | <a href="./JS/직사각형별찍기.js">바로가기</a> |
 | 8월 26일 | :ok_hand: | 68644 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68644" target="_blank">두 개 뽑아서 더하기</a> | Lv1 | <a href="./JS/두개뽑아서더하기.js">바로가기</a> |
 | 8월 26일 | :ok_hand: | 82612 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank">부족한 금액 계산하기</a> | Lv1 | <a href="./JS/부족한금액계산하기.js">바로가기</a> |
-| 8월 27일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 27일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 27일 | :ok_hand: | 68935 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/68935" target="_blank">3진법 뒤집기</a> | Lv1 | <a href="./JS/3진법뒤집기.js">바로가기</a> |
+| 8월 27일 | :ok_hand: | 87389 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389" target="_blank">나머지가 1이 되는 수 찾기</a> | Lv1 | <a href="./JS/나머지가1이되는수찾기">바로가기</a> |
 | 8월 28일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 28일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
 | 8월 29일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
