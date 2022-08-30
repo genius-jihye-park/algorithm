@@ -62,9 +62,9 @@
 | 8월 28일 | :ok_hand: | 12982 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12982" target="_blank">예산</a> | Lv1 | <a href="./JS/예산.js">바로가기</a> |
 | 8월 29일 | :ok_hand: | 77884 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77884" target="_blank">약수의 개수와 덧셈</a> | Lv1 | <a href="./JS/약수의개수와덧셈.js">바로가기</a> |
 | 8월 29일 | :ok_hand: | 76501 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76501" target="_blank">음양 더하기</a> | Lv1 | <a href="./JS/음양더하기.js">바로가기</a> |
-| 8월 30일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 30일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 31일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
-| 8월 31일 | :running: |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/">바로가기</a> |
+| 8월 30일 | :running: | 42576 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42576" target="_blank">완주하지 못한 선수</a> | Lv1 | <a href="./JS/완주하지못한선수.js">바로가기</a> |
+| 8월 30일 | :running: | 42748 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748" target="_blank">K번째수</a> | Lv1 | <a href="./JS/K번째수.js">바로가기</a> |
+| 8월 31일 | :running: | 42840 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42840" target="_blank">모의고사</a> | Lv1 | <a href="./JS/모의고사.js">바로가기</a> |
+| 8월 31일 | :running: | 42862 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">체육복</a> | Lv1 | <a href="./JS/체육복.js">바로가기</a> |
 
 출처: [프로그래머스 문제집](https://school.programmers.co.kr/learn/challenges)
