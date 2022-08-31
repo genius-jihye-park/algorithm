@@ -16,8 +16,36 @@
 ### 9월
 |          날짜          |        풀음?         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 9월 1일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/.js">바로가기</a> |
-| 9월 1일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 1일 |  :ok_hand:  | 86491 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">최소직사각형
+</a> | Lv1 | <a href="./JS/최소직사각형.js">바로가기</a> |
+| 9월 1일 |  :ok_hand:  | 86051 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051" target="_blank">없는 숫자 더하기
+</a> | Lv1 | <a href="./JS/없는숫자더하기.js">바로가기</a> |
+| 9월 2일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 2일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 3일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 3일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 4일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 4일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 5일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 5일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 6일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 6일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 7일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 7일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 8일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 8일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 9일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 9일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 10일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 10일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 11일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 11일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 12일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 12일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 13일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 13일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 14일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 14일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
 
 ### 8월
 |          날짜          |        풀음?         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
