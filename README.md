@@ -20,8 +20,8 @@
 </a> | Lv1 | <a href="./JS/최소직사각형.js">바로가기</a> |
 | 9월 1일 |  :ok_hand:  | 86051 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051" target="_blank">없는 숫자 더하기
 </a> | Lv1 | <a href="./JS/없는숫자더하기.js">바로가기</a> |
-| 9월 2일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
-| 9월 2일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
 | 9월 3일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
 | 9월 3일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
 | 9월 4일 |  :running:  |  | <a href="" target="_blank"></a> | Lv1 | <a href="./JS/.js">바로가기</a> |
