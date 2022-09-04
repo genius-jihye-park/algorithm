@@ -16,12 +16,12 @@
 ### 9월
 |          날짜          |        풀음?         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 9월 1일 |  :ok_hand:  | 86491 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">최소직사각형</a> | Lv1 | <a href="./JS/8월/9월/최소직사각형.js">바로가기</a> |
-| 9월 1일 |  :ok_hand:  | 86051 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051" target="_blank">없는 숫자 더하기</a> | Lv1 | <a href="./JS/8월/9월/없는숫자더하기.js">바로가기</a> |
-| 9월 2일 |  :ok_hand:  | 12977 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977" target="_blank">소수 만들기</a> | Lv1 | <a href="./JS/8월/9월/소수만들기.js">바로가기</a> |
-| 9월 2일 |  :ok_hand:  | 77484 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484" target="_blank">로또의 최고 순위와 최저 순위</a> | Lv1 | <a href="./JS/8월/9월/로또의최고순위와최저순위.js">바로가기</a> |
-| 9월 3일 |  :ok_hand:  | 12953 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953" target="_blank">N개의 최소공배수</a> | Lv2 | <a href="./JS/8월/9월/N개의최소공배수.js">바로가기</a> |
-| 9월 3일 |  :ok_hand:  | 12951 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" target="_blank">JadenCase 문자열 만들기</a> | Lv2 | <a href="./JS/8월/9월/JadenCase문자열만들기.js">바로가기</a> |
+| 9월 1일 |  :ok_hand:  | 86491 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">최소직사각형</a> | Lv1 | <a href="./JS/9월/최소직사각형.js">바로가기</a> |
+| 9월 1일 |  :ok_hand:  | 86051 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86051" target="_blank">없는 숫자 더하기</a> | Lv1 | <a href="./JS/9월/없는숫자더하기.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  | 12977 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12977" target="_blank">소수 만들기</a> | Lv1 | <a href="./JS/9월/소수만들기.js">바로가기</a> |
+| 9월 3일 |  :ok_hand:  | 77484 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77484" target="_blank">로또의 최고 순위와 최저 순위</a> | Lv1 | <a href="./JS/9월/로또의최고순위와최저순위.js">바로가기</a> |
+| 9월 4일 |  :ok_hand:  | 12953 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953" target="_blank">N개의 최소공배수</a> | Lv2 | <a href="./JS/9월/N개의최소공배수.js">바로가기</a> |
+| 9월 5일 |  :ok_hand:  | 12951 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" target="_blank">JadenCase 문자열 만들기</a> | Lv2 | <a href="./JS/9월/JadenCase문자열만들기.js">바로가기</a> |
 | 9월 4일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 4일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 5일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
