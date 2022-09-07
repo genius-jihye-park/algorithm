@@ -23,8 +23,8 @@
 | 9월 4일 |  :ok_hand:  | 12953 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953" target="_blank">N개의 최소공배수</a> | Lv2 | <a href="./JS/9월/N개의최소공배수.js">바로가기</a> |
 | 9월 5일 |  :ok_hand:  | 12951 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951" target="_blank">JadenCase 문자열 만들기</a> | Lv2 | <a href="./JS/9월/JadenCase문자열만들기.js">바로가기</a> |
 | 9월 6일 |  :ok_hand:  | 12939 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12939" target="_blank">최댓값과 최솟값</a> | Lv2 | <a href="./JS/9월/최댓값과최솟값.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 7일 |  :ok_hand:  | 12941 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941" target="_blank">최솟값 만들기</a> | Lv2 | <a href="./JS/9월/최솟값만들기.js">바로가기</a> |
+| 9월 7일 |  :ok_hand:  | 12949 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12949" target="_blank">행렬의 곱셈</a> | Lv2 | <a href="./JS/9월/행렬의곱셈.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
