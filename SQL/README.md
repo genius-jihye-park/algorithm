@@ -10,9 +10,9 @@ SQL 문제풀이 Github입니다.
 | # | Title          | Solution | Difficulty | Date     |
 | :---: | :------------: | :------: | :----: | :------: |
 | SQL 1 | [모든 레코드 조회하기]() | MySQL | Level 1 | 9월 6일 |
-| SQL 2 | [역순 정렬하기]() | MySQL | Level 1 | 9월 일 |
-| SQL 3 | [아픈 동물 찾기]() | MySQL | Level 1 | 9월 일 |
-| SQL 4 | [어린 동물 찾기]() | MySQL | Level 1 | 9월 일 |
+| SQL 2 | [역순 정렬하기]() | MySQL | Level 1 | 9월 7일 |
+| SQL 3 | [아픈 동물 찾기]() | MySQL | Level 1 | 9월 7일 |
+| SQL 4 | [어린 동물 찾기]() | MySQL | Level 1 | 9월 7일 |
 | SQL 5 | [최솟값 구하기]() | MySQL | Level 2 | 9월 일 |
 | SQL 6 | [이름이 없는 동물의 아이디]() | MySQL | Level 1 | 9월 일 |
 | SQL 7 | [고양이와 개는 몇 마리 있을까]() | MySQL | Level 2 | 9월 일 |
