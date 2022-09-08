@@ -35,9 +35,9 @@
 </pre>
 <br/>
 
-## 목차
+## 💁🏻‍♀️ 목차
 
-### 9월
+### 9️⃣월
 |          날짜          |        풀음?         |        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 9월 1일 |  :ok_hand:  | 86491 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank">최소직사각형</a> | Lv1 | <a href="./JS/9월/최소직사각형.js">바로가기</a> |
@@ -51,8 +51,8 @@
 | 9월 7일 |  :ok_hand:  | 12949 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12949" target="_blank">행렬의 곱셈</a> | Lv2 | <a href="./JS/9월/행렬의곱셈.js">바로가기</a> |
 | 9월 8일 |  :ok_hand:  | 12909 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909" target="_blank">올바른 괄호</a> | Lv2 | <a href="./JS/9월/올바른괄호.js">바로가기</a> |
 | 9월 8일 |  :ok_hand:  | 42842 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42842" target="_blank">카펫</a> | Lv2 | <a href="./JS/9월/카펫.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 9일 |  :ok_hand:  | 12911 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911" target="_blank">다음 큰 숫자</a> | Lv2 | <a href="./JS/9월/다음큰숫자.js">바로가기</a> |
+| 9월 9일 |  :ok_hand:  | 12924 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924" target="_blank">숫자의 표현</a> | Lv2 | <a href="./JS/9월/숫자의표현.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
