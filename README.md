@@ -1,14 +1,15 @@
 # :cactus:algorithm
 졔의 알고리즘 문제풀이 Github입니다.  
-코드는 **JavaScript**와 **Python** **MySQL**을 활용하여 작성하였습니다. 
+코드는 **JavaScript**, **Python**, **MySQL**을 활용하여 작성하였습니다. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <br/>
 
 ## 파일 및 폴더 구조
 - `언어/문제이름` 형식으로 업로드
-
+<pre>
 📦algorithm
  ┣ 📂JS
  ┃ ┣ 📂8월
@@ -31,6 +32,7 @@
  ┃ ┣ 📂programmers
  ┃ ┗ 📜README.md
  ┗ 📜README.md
+</pre>
 <br/>
 
 ## 목차
