@@ -57,7 +57,7 @@
 | 9월 10일 |  :ok_hand:  | 70129 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129" target="_blank">이진 변환 반복하기</a> | Lv2 | <a href="./JS/9월/이진변환반복하기.js">바로가기</a> |
 | 9월 11일 |  :ok_hand:  | 12945 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12945" target="_blank">피보나치 수</a> | Lv2 | <a href="./JS/9월/피보나치수.js">바로가기</a> |
 | 9월 11일 |  :ok_hand:  | 12981 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981" target="_blank">영어 끝말잇기</a> | Lv2 | <a href="./JS/9월/영어끝말잇기.js">바로가기</a> |
-| 9월 12일 |  :ok_hand:  | 42885 | <a href=https://school.programmers.co.kr/learn/courses/30/lessons/42885" target="_blank">구명보트</a> | Lv2 | <a href="./JS/9월/구명보트.js">바로가기</a> |
+| 9월 12일 |  :ok_hand:  | 42885 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885" target="_blank">구명보트</a> | Lv2 | <a href="./JS/9월/구명보트.js">바로가기</a> |
 | 9월 12일 |  :ok_hand:  | 12985 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985" target="_blank">예상 대진표</a> | Lv2 | <a href="./JS/9월/예상대진표.js">바로가기</a> |
 | 9월 13일 |  :ok_hand:  | 12914 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914" target="_blank">멀리 뛰기</a> | Lv2 | <a href="./JS/9월/멀리뛰기.js">바로가기</a> |
 | 9월 14일 |  :ok_hand:  | 12980 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_blank">점프와 순간 이동</a> | Lv2 | <a href="./JS/9월/점프와순간이동.js">바로가기</a> |
