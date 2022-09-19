@@ -61,11 +61,11 @@
 | 9월 12일 |  :ok_hand:  | 12985 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12985" target="_blank">예상 대진표</a> | Lv2 | <a href="./JS/9월/예상대진표.js">바로가기</a> |
 | 9월 13일 |  :ok_hand:  | 12914 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914" target="_blank">멀리 뛰기</a> | Lv2 | <a href="./JS/9월/멀리뛰기.js">바로가기</a> |
 | 9월 14일 |  :ok_hand:  | 12980 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980" target="_blank">점프와 순간 이동</a> | Lv2 | <a href="./JS/9월/점프와순간이동.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 15일 |  :ok_hand:  | 76502 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/76502" target="_blank">괄호 회전하기</a> | Lv2 | <a href="./JS/9월/괄호회전하기.js">바로가기</a> |
+| 9월 16일 |  :ok_hand:  | 42747 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a> | Lv2 | <a href="./JS/9월/H-Index.js">바로가기</a> |
+| 9월 17일 |  :ok_hand:  | 87390 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390" target="_blank">n^2 배열 자르기</a> | Lv2 | <a href="./JS/9월/n^2배열자르기.js">바로가기</a> |
+| 9월 18일 |  :ok_hand:  | 42578 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">위장</a> | Lv2 | <a href="./JS/9월/위장.js">바로가기</a> |
+| 9월 19일 |  :ok_hand:  | 17681 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681" target="_blank">[1차]비밀지도</a> | Lv2 | <a href="./JS/9월/비밀지도.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 | 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 
