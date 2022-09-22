@@ -65,8 +65,17 @@
 | 9월 16일 |  :ok_hand:  | 42747 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747" target="_blank">H-Index</a> | Lv2 | <a href="./JS/9월/H-Index.js">바로가기</a> |
 | 9월 17일 |  :ok_hand:  | 87390 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390" target="_blank">n^2 배열 자르기</a> | Lv2 | <a href="./JS/9월/n^2배열자르기.js">바로가기</a> |
 | 9월 18일 |  :ok_hand:  | 42578 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42578" target="_blank">위장</a> | Lv2 | <a href="./JS/9월/위장.js">바로가기</a> |
-| 9월 19일 |  :ok_hand:  | 17681 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681" target="_blank">[1차]비밀지도</a> | Lv2 | <a href="./JS/9월/비밀지도.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
-| 9월 일 |  :running:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 19일 |  :ok_hand:  | 17681 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681" target="_blank">[1차]비밀지도</a> | Lv1 | <a href="./JS/9월/비밀지도.js">바로가기</a> |
+| 9월 20일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 21일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 22일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
+| 9월 2일 |  :ok_hand:  |  | <a href="" target="_blank"></a> | Lv2 | <a href="./JS/9월/.js">바로가기</a> |
 
 출처: [프로그래머스 문제집](https://school.programmers.co.kr/learn/challenges)
