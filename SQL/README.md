@@ -31,12 +31,12 @@ SQL 쿼리 문제풀이 Github입니다.
 | SQL 20 | [있었는데요 없었습니다]() | MySQL | Level 3 | 9월 11일 |
 | SQL 21 | [오랜 기간 보호한 동물(1)]() | MySQL | Level 3 | 9월 11일 |
 | SQL 22 | [보호소에서 중성화한 동물]() | MySQL | Level 4 | 9월 11일 |
-| SQL 23 | [루시와 엘라 찾기]() | MySQL | Level 2 | 9월 일 |
-| SQL 24 | [이름에 el이 들어가는 동물 찾기]() | MySQL | Level 2 | 9월 일 |
-| SQL 25 | [중성화 여부 파악하기]() | MySQL | Level 2 | 9월 일 |
-| SQL 26 | [오랜 기간 보호한 동물(2)]() | MySQL | Level 3 | 9월 일 |
-| SQL 27 | [DATETIME에서 DATE로 형 변환]() | MySQL | Level 2 | 9월 일 
-| SQL 28 | [우유와 요거트가 담긴 장바구니]() | MySQL | Level 4 | 9월 일 
+| SQL 23 | [루시와 엘라 찾기]() | MySQL | Level 2 | 9월 21일 |
+| SQL 24 | [이름에 el이 들어가는 동물 찾기]() | MySQL | Level 2 | 9월 21일 |
+| SQL 25 | [중성화 여부 파악하기]() | MySQL | Level 2 | 9월 21일 |
+| SQL 26 | [오랜 기간 보호한 동물(2)]() | MySQL | Level 3 | 9월 21일 |
+| SQL 27 | [DATETIME에서 DATE로 형 변환]() | MySQL | Level 2 | 9월 21일 
+| SQL 28 | [우유와 요거트가 담긴 장바구니]() | MySQL | Level 4 | 9월 21일 
 | SQL 29 | [헤비 유저가 소유한 장소]() | MySQL | Level 3 | 9월 일 
 <br><br>
 
